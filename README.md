@@ -4,6 +4,8 @@
 
 EduMentor AI is an AI-powered educational platform built with Streamlit, designed to assist students through an interactive, text-based interface. Leveraging natural language processing (NLP) with the LLaMA 3 model, it offers personalized study help, note generation, quizzes, and learning games. Hosted on Streamlit Community Cloud, EduMentor AI aims to make learning engaging and accessible.
 
+[Deployed Link](https://catalyst-hackathon.streamlit.app/)).
+
 ## Features
 
 - **Text-Based Q&A:** Ask questions via a chat interface and receive detailed, AI-generated responses.
