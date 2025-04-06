@@ -1,11 +1,1 @@
-streamlit
-langchain
-langchain-groq
-streamlit-mic-recorder
-python-dotenv
-python-logging
 
-
-
-speechrecognition
-pyaudio
